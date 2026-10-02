@@ -7,7 +7,9 @@
 
 <br>
 <h3>More than 60 AI Tools (updated 18 Feb. 2023)</h3>
-A collection of software tools that utilize artificial intelligence (AI) technology to enhance the functionality and capabilities of two popular web browsers, Google Chrome and Mozilla Firefox. These AI-powered extensions and add-ons are designed to help users perform various tasks more efficiently and effectively, such as language translation, content filtering, search optimization, and more. The list aims to provide users with a selection of the most useful and innovative AI tools available for these browsers, allowing them to improve their browsing experience and increase their productivity. Before installing any of them pay attention to their permissions.
+A collection of software tools that utilize artificial intelligence (AI) technology to enhance the functionality and capabilities of two popular web browsers, Google Chrome and Mozilla Firefox. These AI-powered extensions and add-ons are designed to help users perform various tasks more efficiently and effectively, such as language translation, content filtering, search optimization, and more. The list aims to provide users with a selection of the most 
+[SummarizAI]:https://chromewebstore.google.com/detail/gadopdpeiejacbbmabahjpoikfdojjne
+| SummarizAI | Chrome extension for on-page YouTube AI summary, chapters, chat, and Study flashcards (free for students). | [SummarizAI][SummarizAI] | x |useful and innovative AI tools available for these browsers, allowing them to improve their browsing experience and increase their productivity. Before installing any of them pay attention to their permissions.
 
 <div align="center">
   
